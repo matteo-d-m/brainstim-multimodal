@@ -127,8 +127,9 @@ Finally, run the command `jupyter notebook pipeline.ipynb`. This should open `pi
 
 ### Option 2: Using Git
 
-1. Click on [this](https://github.com/vigji/python-cimec-2025/blob/main/docs/python-installation.md) link and follow the instructions until point 1 included (_Install Jupyter in the base environment_). **Do not go any further than that**.
-2. In a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows), run the following code:
+1. If you don't have it, install Git: https://git-scm.com/
+2. Click on [this](https://github.com/vigji/python-cimec-2025/blob/main/docs/python-installation.md) link and follow the instructions until point 1 included (_Install Jupyter in the base environment_). **Do not go any further than that**.
+3. In a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows), run the following code:
 
 ```
 cd <insert the directory where you want to save this project>
