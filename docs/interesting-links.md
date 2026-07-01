@@ -48,7 +48,7 @@ Anaconda is a package manager &mdash; that is, software that orchestrates the in
 
 - Easy access to a wide variety of Python and R libraries
 - Ability to easily create, manage, and share environments &mdash; that is, _"self-contained, isolated spaces where you can install specific versions of software , including dependencies, libraries, and Python versions. This isolation helps avoid conflicts between package versions and ensures that your projects have the exact libraries and tools they need"_ (source: Anaconda documentation &mdash; accessed December 2025) 
--Ability to export and share environments easily
+- Ability to export and share environments easily
 
 The [Anaconda documentation](https://www.anaconda.com/docs/main) contains everything there is to know about it, including concept guides and step-by-step tutorials.
 
