@@ -167,5 +167,5 @@ For scientific, technical, or logistic questions about the hands-on activity:
 - :mailbox: matteo [dot] dematola [at] unitn [dot] it
 
 For any other questions (e.g., course contents, evaluation criteria, submission methods, exam rules):
-- :question: Carlo Miniussi ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0053912/Curriculum)) and Paolo Belardinelli ([UniTN](https://webapps.unitn.it/du/it/Persona/PER0039355/Curriculum))
+- :question: Carlo Miniussi ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0053912/Curriculum)) and Paolo Belardinelli ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0039355/Curriculum))
 - :mailbox: carlo [dot] miniussi [at] unitn [dot] it and paolo [dot] belardinelli [at] unitn [dot] it 
