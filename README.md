@@ -35,9 +35,9 @@ All the code is contained in a single Jupyter Notebook called `pipeline.ipynb`. 
 
 The goal of the hands-on activity is to progressively populate `pipeline.ipynb` with all the basic steps of a TMS-EEG preprocessing pipeline, complementing the actual code with explanations about what it does, its scientific goal and its effects on the data (for example: _"The following code applies a low-pass filter to the data to attenuate high-frequency noise. As can be seen in the plots, the filter does this and that to the signal"_). 
 
-The hands-on activities will unfold over a series of in-person meetings with the course tutor [Matteo De Matola](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum). The meetings will come in pairs: a _briefing_ and a corresponding _debriefing_, interleaved by home assignments for the students. The home assignments will count for the final exam if students choose to take the exam under Option A (see [For the exam](#for-the-exam)).
+The hands-on activities will unfold over a series of in-person meetings. The meetings will come in pairs: a _briefing_ and a corresponding _debriefing_, interleaved by home assignments for the students. The home assignments will count for the final exam if students choose to take the exam under Option A (see [For the exam](#for-the-exam)).
 
-- In the _briefing_, Matteo will introduce a set of preprocessing steps, their scientific goal and their Python implementations. This will help revise the signal processing theory introduced by prof. Belardinelli and translate it into practice. Students will leave the meeting with working Python code provided by Matteo, but they will be free to write their own implementation should they have Python skills at the appropriate level. In this case, the appropriateness of their implementation will be evaluated for the exam
+- In the _briefing_, Matteo will discuss a set of preprocessing steps, their scientific goal and their Python implementations. This will help revise the signal processing theory introduced by prof. Belardinelli and translate it into practice. Students will leave the meeting with working Python code provided by Matteo, but they will be free to write their own implementation should they have Python skills at the appropriate level. In this case, the appropriateness of their implementation will be evaluated for the exam
 - At home, the students will run the code presented during the _briefing_ and comment extensively on its outputs, applying the concepts that they have learned in class. In this phase, students will work on their own copy of `pipeline.ipynb`, writing their comments in the appropriate text cells in an academic style. Students are expected to work independently, but Matteo will be available via email to help them solve technical problems or clarify any doubts. At the end of their work, students will submit their own copy of `pipeline.ipynb`, complete with comments, by 08:00 AM on the day of the _debriefing_ (that is, if the _debriefing_ is on Monday, submit your work by 08:00 AM on Monday)
 - In the _debriefing_, Matteo will provide the students with the correct comments and lead an in-depth discussion of any issues (technical or theoretical) that may arise. After the _debriefing_, Matteo will update this repository with his own version of `pipeline.ipynb`, containing the correct comments for future reference and comparison
 
@@ -47,7 +47,7 @@ As explained in class, students that attend the Brain Stimulation & Multimodal E
 
 1. **Option A:** carry out two practical activities &mdash; one for Miniussi's part, one for Belardinelli's part:
     - For Miniussi's part (Brain Stimulation), write a grant proposal for a study involving brain stimulation and multimodal electrophysiological recordings. This part is not addressed by the present repository
-    - For Belardinelli's part, attend the hands-on preprocessing activity described in this repository and carry out the related assignments. Assignments for the hands-on activity must be submitted to Matteo as described above 
+    - For Belardinelli's part, attend the hands-on preprocessing activity described in this repository and carry out the related assignments. Assignments for the hands-on activity must be submitted at precise deadlines, as described above 
 2. **Option B:** take an oral exam about Miniussi's part and one about Belardinelli's part, in any exam session
 
 In both cases, the final grade will be the weighted average of the two grades (Miniussi's and Belardinelli's).
@@ -84,7 +84,7 @@ What **will** be evaluated is:
 Students have two alternative ways to submit their work:
 
 1. **Without using Git/GitHub:** students that do not use Git/GitHub can download this repository as described below and, every time there is a deadline, send their own copy of `pipeline.ipynb` to prof. Belardinelli via email, using their University address and cc-ing Matteo. Please rename your file as `pipeline_name_surname_assignmentnumber.ipynb`: that is, if your name is Jane Doe and you are submitting assignment 1, rename your file as `pipeline_jane_doe_1.ipynb`
-2. **Using Git/GitHub:** students that use Git/GitHub can fork this repository, work on their own copy of `pipeline.ipynb`, and push their changes to their fork. At each deadline, Matteo will check the GitHub of the students who chose to work under this option and look for an updated copy of `pipeline.ipynb` 
+2. **Using Git/GitHub:** students that use Git/GitHub can fork this repository, work on their own copy of `pipeline.ipynb`, and push their changes to their fork before each deadline 
 
 The two submission methods are equivalent: you are free to choose based on your taste. What matters is that you do not miss the deadlines. 
 
@@ -162,6 +162,10 @@ brainstim-multimodal/
 
 ## Contacts
 
-:question: Matteo De Matola ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum), [GitHub](https://github.com/matteo-d-m))
+For scientific, technical, or logistic questions about the hands-on activity: 
+- :question: Matteo De Matola ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum), [GitHub](https://github.com/matteo-d-m))
+- :mailbox: matteo [dot] dematola [at] unitn [dot] it
 
-:mailbox: matteo [dot] dematola [at] unitn [dot] it
+For any other questions (e.g., course contents, evaluation criteria, submission methods, exam rules):
+- :question: Carlo Miniussi ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0053912/Curriculum)) and Paolo Belardinelli ([UniTN](https://webapps.unitn.it/du/it/Persona/PER0039355/Curriculum))
+- :mailbox: carlo [dot] miniussi [at] unitn [dot] it and paolo [dot] belardinelli [at] unitn [dot] it 
