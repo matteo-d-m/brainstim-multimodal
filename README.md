@@ -22,10 +22,10 @@ brainstim-multimodal/
     - [Attendance rules for the hands-on activity](#attendance-rules-for-the-hands-on-activity)
     - [Evaluation criteria for the hands-on activity](#evaluation-criteria-for-the-hands-on-activity)
     - [Submission instructions](#submission-instructions)
-<!-- - [Calendar](#calendar)
-- [Installation instructions](#installation-instructions)
-- [Downloading data](#downloading-data) -->
-- [Contacts](#contacts)
+- [Calendar](#calendar)
+<!-- - [Installation instructions](#installation-instructions)
+- [Downloading data](#downloading-data) 
+- [Contacts](#contacts) -->
 
 ## General facts
 
@@ -98,23 +98,20 @@ The two submission methods are equivalent: you are free to choose based on your 
 
 :pushpin: **Note:** while the two submission methods are equally valid, this might be a good time to learn the basics of Git/GitHub. If you are interested, you can follow this [Git Tutorial](https://github.com/coneco-lab/git-tutorial) for more.
 
-## **Calendar :building_construction:**
+## **Calendar:**
 
-> [!NOTE]
-> Students will be notified via Moodle once the calendar becomes available
-
-<!-- Meetings will be as follows:
+Meetings will be as follows:
 
 0. **Installations check, general Q&As** 
-    - xx/yy/zz at ...
-1. **Basic preprocessing** rationale, interpolating the pulse artifact, filtering 
-    - _Briefing_ xx/yy/zz at ..., _Debriefing_ xx/yy/zz at ... 
-2. **Manual artifact rejection:** rationale and execution 
-- _Briefing_ xx/yy/zz at ..., _Debriefing_ xx/yy/zz at ...
+    - 14/10/2026 at 15:30 (Room 1)
+1. **Basic preprocessing:** rationale, main artefacts & how to tackle them 
+    - _Briefing_ 16/10/2026 at 14:30 (Room 1), _Debriefing_ 23/10/2026 at 14:30 (Room 1) 
+2. **Recognising bad trials & bad channels:** rationale and execution 
+- _Briefing_ 23/10/2026 at 14:30 (Room 1), _Debriefing_ 30/10/2026 at 14:30 (Room 1)
 3. **Independent components analysis (ICA):** rationale, fitting, components selection 
-    - _Briefing_ xx/yy/zz at ..., _Debriefing_ xx/yy/zz at ...
+    - _Briefing_ 30/10/2026 at 14:30 (Room 1), _Debriefing_ 06/11/2026 at 15:30 (Room 1)
 4. **Computing & assessing a TEP** 
-    - _Briefing_ xx/yy/zz at ..., _Debriefing_ xx/yy/zz at ... -->
+    - _Briefing_ 06/11/2026 at 15:30 (Room 1), _Debriefing_ not necessary
 
 ## **Installation instructions :building_construction:**
 
