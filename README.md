@@ -98,7 +98,7 @@ The two submission methods are equivalent: you are free to choose based on your 
 
 :pushpin: **Note:** while the two submission methods are equally valid, this might be a good time to learn the basics of Git/GitHub. If you are interested, you can follow this [Git Tutorial](https://github.com/coneco-lab/git-tutorial) for more.
 
-## **Calendar: :calendar:**
+## **:calendar: Calendar**
 
 Meetings will be as follows:
 
