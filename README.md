@@ -22,7 +22,7 @@ brainstim-multimodal/
     - [Attendance rules for the hands-on activity](#attendance-rules-for-the-hands-on-activity)
     - [Evaluation criteria for the hands-on activity](#evaluation-criteria-for-the-hands-on-activity)
     - [Submission instructions](#submission-instructions)
-- [Calendar](#calendar)
+- [Calendar](#calendar-calendar)
 <!-- - [Installation instructions](#installation-instructions)
 - [Downloading data](#downloading-data) 
 - [Contacts](#contacts) -->
@@ -111,7 +111,7 @@ Meetings will be as follows:
 3. **Independent components analysis (ICA):** rationale, fitting, components selection 
     - _Briefing_ 30/10/2026 at 14:30 (Room 1), _Debriefing_ 06/11/2026 at 15:30 (Room 1)
 4. **Computing & assessing a TEP** 
-    - _Briefing_ 06/11/2026 at 15:30 (Room 1), _Debriefing_ not necessary
+    - _Briefing_ 06/11/2026 at 15:30 (Room 1), _Debriefing_ in writing
 
 ## **Installation instructions :building_construction:**
 
