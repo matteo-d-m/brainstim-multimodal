@@ -96,7 +96,7 @@ Students have two alternative ways to submit their work:
 
 The two submission methods are equivalent: you are free to choose based on your taste. What matters is that you do not miss the deadlines. 
 
-:pushpin: **Note:** while the two submission methods are equally valid, this might be a good time to learn the basics of Git/GitHub. If you are interested, you can follow this [Git Tutorial](https://github.com/coneco-lab/git-tutorial) for more.
+:pushpin: **Note:** while the two submission methods are equally valid, this might be a good time to learn the basics of Git/GitHub. If you are interested, you can follow this [Git Tutorial](https://matteo-d-m.github.io/git-tutorial/) for more.
 
 ## **:calendar: Calendar**
 
